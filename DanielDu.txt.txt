@@ -1,2 +1,6 @@
 First line, first commit.
+<<<<<<< HEAD
 Second line, second commit!
+=======
+Second line, second commit!
+>>>>>>> 019abe9e9982b2157fce68025e2718d9ec41e31a

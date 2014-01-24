@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 First line, always first commit
+=======
+First line, always first commit!
+>>>>>>> 019abe9e9982b2157fce68025e2718d9ec41e31a
